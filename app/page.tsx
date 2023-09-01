@@ -95,7 +95,7 @@ export default async function Home() {
                 <Image className=' rounded-full w-6 h-6 mr-2' src='/git.png' width={50} height={50} alt='Open Source'></Image>
                 <p className='my-auto'>FE Git Clone</p>
               </Link>
-              <Link href={'https://github.com/khoaha1904/Next-be'} className='flex flex-row justify-center border border-slate-500 rounded p-2'>
+              <Link href={'https://github.com/manhhung311/nextjsvietnam-be'} className='flex flex-row justify-center border border-slate-500 rounded p-2'>
                 <Image className=' rounded-full w-6 h-6 mr-2' src='/git.png' width={50} height={50} alt='Open Source'></Image>
                 <p className='my-auto'>BE Git Clone</p>
               </Link>

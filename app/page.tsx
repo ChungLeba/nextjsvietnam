@@ -3,7 +3,7 @@ import Link from 'next/link'
 import DevMember from './_components/devmember'
 import UserMember from './_components/usermember'
 import Footer from './_components/footer'
-import BomMember from './_components/bommember'
+import BomMember from './_components/bom_member'
 
 
 import * as Icon from 'react-feather';

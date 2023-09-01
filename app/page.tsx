@@ -12,7 +12,7 @@ import { Metadata } from 'next'
 
 export const metadata: Metadata = {
   title: 'NextJs Viet Nam',
-  description: 'Learn to earn | Official communication NextJs Viet Nam',
+  description: 'Learn to earn | Official communication NextJs Viet Nam.',
 }
 
 /* Check token Nextjs */

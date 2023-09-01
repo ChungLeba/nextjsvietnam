@@ -1,6 +1,6 @@
 import React from "react";
 import Image from "next/image";
-import { IStory } from "@/app/(story)/story/page";
+import { IStory } from "../../(story)/story/page";
 
 interface Props {
   story: IStory;

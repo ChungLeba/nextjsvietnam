@@ -5,10 +5,10 @@ import Link from "next/link";
 import axios from "axios";
 import "react-quill/dist/quill.snow.css";
 import { useQuill } from "react-quilljs";
-import { POST, tags } from "@/libs/data";
+import { POST, tags } from "../../../libs/data";
 import TagDescribeItem from "../../_components/tagdescribeitem";
 import TagItem from "../../_components/tagitem";
-import Header from "@/app/_components/header";
+import Header from "../../_components/header";
 type Props = {};
 
 function AddQuestionClient({}: Props) {

@@ -1,6 +1,6 @@
-import BackButton from "@/app/_components/BackButton";
-import StoryContent from "@/app/_components/story/StoryContent";
-import UserPost from "@/app/_components/story/UserPost";
+import BackButton from "../../../_components/BackButton";
+import StoryContent from "../../../_components/story/StoryContent";
+import UserPost from "../../../_components/story/UserPost";
 import React from "react";
 
 interface Props {

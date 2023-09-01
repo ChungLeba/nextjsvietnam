@@ -1,6 +1,6 @@
 import Image from 'next/image'
 import Link from 'next/link'
-import BomMember from './_components/bomMember'
+import BomMember from './_components/bommember'
 import DevMember from './_components/devmember'
 import UserMember from './_components/usermember'
 import Footer from './_components/footer'

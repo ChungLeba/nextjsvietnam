@@ -2,7 +2,7 @@ import Image from 'next/image'
 import Link from 'next/link'
 import * as Icon from 'react-feather';
 import { Metadata } from 'next'
-import Footer from '@/app/_components/footer'
+import Footer from '../../_components/footer'
 
 
 export const metadata: Metadata = {

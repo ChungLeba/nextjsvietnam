@@ -1,6 +1,6 @@
 import React from "react";
 import { NextPage } from "next";
-import Story from "@/app/_components/story/Story";
+import Story from "../../_components/story/Story";
 
 export interface IStory {
   id: string;

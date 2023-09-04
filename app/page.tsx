@@ -104,7 +104,7 @@ export default async function Home() {
                 <Image className=' rounded-full w-6 h-6 mr-2' src='/zalo.png' width={50} height={50} alt='Open Source'></Image>
                 <p className='my-auto'>Zalo Group</p>
               </Link>
-              <Link href={'https://discord.gg/fhruv6GR'} className='flex flex-row justify-center border border-slate-500 rounded p-2'>
+              <Link href={'https://discord.gg/DuDg9hUyuH'} className='flex flex-row justify-center border border-slate-500 rounded p-2'>
                 <Image className=' rounded-full w-6 h-6 mr-2' src='/discord.png' width={50} height={50} alt='Open Source'></Image>
                 <p className='my-auto'>Discord Group</p>
               </Link>
